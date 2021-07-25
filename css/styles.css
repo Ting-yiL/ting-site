@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  line-height: 1.5;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #446491;
+}
+h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3.0rem;
+  color: #4B89AC;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.25em;
+  color: #11999E;
+  margin-bottom: 0;
+}
+p {
+  margin-top: 0;
+  font-size: 1.25em;
+}
+hr {
+  margin: 25px auto;
+  border: none;
+  width: 10%;
+  border-top: dotted 7.5px;
+  color: #ACE6F6;
+}
+.intro {
+  width:50%;
+  margin:auto;
+}
+.top-container {
+  padding-top: 75px;
+  background-color: #E4FCF9;
+}
+.middle-container {
+  margin-bottom: 20px;
+}
+.bottom-container {
+  background-color: #E4FCF9;
+  padding: 10px;
+}
+
+.btn {
+  color:#FFFFFF;
+  padding: 10px;
+  background-color: #446491;
+  border-radius: 10px;
+}
+.btn:hover {
+  color:#FFFFFF;
+  padding: 10px;
+  background-color: #11999E;
+  border-radius: 10px;
+}
+.top-ai-icon {
+  position: absolute;
+  top: 100px;
+  right: 150px;
+}
+
+.bottom-ai-icon {
+  position: absolute;
+  top: 235px;
+  left: 150px;
+}
+.footer-link {
+  color: #11999E;
+  margin: 20px auto;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #446491;
+  margin: 20px auto;
+  text-decoration: none;
+}
+
+.skill-row {
+  margin: 50px auto 150px auto;
+  width: 50%;
+  text-align: left;
+}
+.left-img {
+  float: left;
+  width: 30%;
+  margin-right: 30px;
+}
+.right-img {
+  float: right;
+  width: 30%;
+  margin-left: 30px;
+}
+.profile-pic {
+  width: 15%;
+  margin: 50px auto 0 auto;
+}
+.copyright {
+  padding: 20px;
+}
